@@ -17,5 +17,7 @@ https://help.ubuntu.com/stable/ubuntu-help/startup-applications.html.en
 https://support.microsoft.com/en-in/help/4026268/windows-10-change-startup-apps
 
 ---
-### Be sure to stargaze the repository and also checkout [My Website](https://rohandas28.github.io/) to contact me.
-#### Thank You.
+### Changes from original library:
+1. Using pync library
+2. Supports multiple products
+3. Supports Unavailable products
